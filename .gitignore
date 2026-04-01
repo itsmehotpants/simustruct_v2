@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# FEniCSx / GMSH Temp Files
+*.msh
+*.xdmf
+*.h5
+fem_plot.png
+ai_plot.png
+
+# Datasets (Too heavy for GitHub)
+dataset_ellipse/
+
+# OS
+.DS_Store
