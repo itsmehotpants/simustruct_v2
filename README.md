@@ -127,6 +127,15 @@ simustruct_v2/
 
 ---
 
+## 👤 Project By
+
+**Naman Agrawal**
+Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/naman-agrawal-8671aa27b/) for collaboration or feedback.
+
+---
+
 <p align="center">
   Built with physics, powered by AI.
 </p>
+
+
